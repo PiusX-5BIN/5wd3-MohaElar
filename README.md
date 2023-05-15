@@ -26,10 +26,10 @@ De website bestaat uit minstens 3 delen:
 <summary>Opdracht 1: Voorbereiding</summary>
 
 > ### Inhoud
-> - [ ] **Bepaal de pagina's** die je website nodig heeft. Je hebt minstens 6 pagina's nodig: een overzichtspagina, 2 blogpost-pagina's en 3 project-pagina's.\
+> - [x] **Bepaal de pagina's** die je website nodig heeft. Je hebt minstens 6 pagina's nodig: een overzichtspagina, 2 blogpost-pagina's en 3 project-pagina's.\
 > Je kan ook je overzichtspagina opdelen in verschillende pagina's (blog-overzicht, project-overzicht, home), dat kies je zelf!\
 > Denk eraan dat je steeds een link voorziet om terug te keren naar de overzichtspagina.
-> - [ ] Maak een **Markdown bestand** aan voor elke pagina.
+> - [x] Maak een **Markdown bestand** aan voor elke pagina.
 > - [ ] Verzamel de **inhoud** voor elke pagina in de Markdown pagina's. 
 > 
 > ### Ontwerp

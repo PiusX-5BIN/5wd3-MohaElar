@@ -1,2 +1,4 @@
 <img src="Foto/../../Foto/fotoproject2/project2.png">
 
+ In de spannende game "The Lost Ghost" ga je op een avontuurlijke zoektocht naar een lang verloren sleutel die de poorten opent tussen onze wereld en die van de spokenwereld. Als "vermomde" spook word je uitgenodigd om deel te nemen aan een geheime expeditie naar een afgelegen eiland, waar het legendarische artefact vermoedelijk verborgen ligt.
+"The Lost Ghost" is een meeslepend avontuur dat spelers uitdaagt met zijn uitdagende puzzels, adembenemende omgevingen en een intrigerend verhaal. Ga op zoek naar het artefact, ontdek verborgen geheimen en bewijs jezelf als een ware ontdekkingsreiziger in deze unieke en opwindende game-ervaring.

@@ -30,11 +30,11 @@ De website bestaat uit minstens 3 delen:
 > Je kan ook je overzichtspagina opdelen in verschillende pagina's (blog-overzicht, project-overzicht, home), dat kies je zelf!\
 > Denk eraan dat je steeds een link voorziet om terug te keren naar de overzichtspagina.
 > - [x] Maak een **Markdown bestand** aan voor elke pagina.
-> - [ ] Verzamel de **inhoud** voor elke pagina in de Markdown pagina's. 
+> - [X] Verzamel de **inhoud** voor elke pagina in de Markdown pagina's. 
 > 
 > ### Ontwerp
-> - [ ] [**Vind een ontwerp**](https://www.w3schools.com/w3css/w3css_templates.asp) dat je wilt gebruiken voor deze website.
-> - [ ] Pas het ontwerp aan naar jouw inhoud. Gebruik hiervoor de inspector of tekensoftware. (*Doe dit voor elke soort pagina*)
+> - [X] [**Vind een ontwerp**](https://www.w3schools.com/w3css/w3css_templates.asp) dat je wilt gebruiken voor deze website.
+> - [X] Pas het ontwerp aan naar jouw inhoud. Gebruik hiervoor de inspector of tekensoftware. (*Doe dit voor elke soort pagina*)
 > - [ ] Neem een screenshot van de **Mobiele versie**. (*Doe dit voor elke soort pagina*)
 > - [ ] Neem een screenshot van de **Desktop versie**. (*Doe dit voor elke soort pagina*)
 > - [ ] Duidt de verschillende **layout-niveau's** aan op de Desktop-screenshots. (*Doe dit voor elke soort pagina*)

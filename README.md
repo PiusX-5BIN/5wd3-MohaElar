@@ -46,12 +46,12 @@ De website bestaat uit minstens 3 delen:
 <details>
 <summary>Opdracht 2: Markup</summary>
 
-> - [ ] Gebruik HTML om de markup van elke pagina uit te werken. Gebruik enkel semantisch correcte elementen. Gebruik klassen om de semantiek te verbeteren. Geef belangrijke elementen een unieke naam.
-> - [ ] Geef je startpagina de juiste naam (**`index.html`**).
+> - [x] Gebruik HTML om de markup van elke pagina uit te werken. Gebruik enkel semantisch correcte elementen. Gebruik klassen om de semantiek te verbeteren. Geef belangrijke elementen een unieke naam.
+> - [x] Geef je startpagina de juiste naam (**`index.html`**).
 > - [ ] Vul je HTML pagina's met de inhoud die je verzamelde in je Markdown.
-> - [ ] Voorzie hyperlink-elementen van de juiste url.
-> - [ ] Maak minstens 2 blogposts aan met afbeeldingen en tekst. Er zijn dus 2 blogposts terug te vinden op de overzichtspagina, èn er zijn 2 aparte HTML pagina's waar je naar linkt om elke blogpost in z'n volledigheid te bekijken.
-> - [ ] Maak minstens 3 projecten aan met afbeeldingen en tekst. Er zijn dus 3 projecten terug te vinden op de overzichtspagina, èn er zijn 3 aparte HTML pagina's waar je naar linkt om elk project in z'n volledigheid te bekijken.
+> - [x] Voorzie hyperlink-elementen van de juiste url.
+> - [x] Maak minstens 2 blogposts aan met afbeeldingen en tekst. Er zijn dus 2 blogposts terug te vinden op de overzichtspagina, èn er zijn 2 aparte HTML pagina's waar je naar linkt om elke blogpost in z'n volledigheid te bekijken.
+> - [x] Maak minstens 3 projecten aan met afbeeldingen en tekst. Er zijn dus 3 projecten terug te vinden op de overzichtspagina, èn er zijn 3 aparte HTML pagina's waar je naar linkt om elk project in z'n volledigheid te bekijken.
 
 </details>
 
@@ -60,7 +60,7 @@ De website bestaat uit minstens 3 delen:
 <details>
 <summary>Opdracht 3: Ruimte en Layout</summary>
 
-> - [ ] Maak het bestand `composition.css` aan. Gebruik dit in *elke* HTML pagina.
+> - [x] Maak het bestand `composition.css` aan. Gebruik dit in *elke* HTML pagina.
 > - [ ] Werk de Ruimte van elke pagina uit. Werk daarbij **Mobile First**.
 > - [ ] Werk de Layout van elke pagina uit. Werk daarbij **Mobile First** en gebruik Media Queries waar nodig.
 > - [ ] Bepaal de hoofdkleuren van je website en definieer ze in het `:root` element met behulp van CSS Custom Properties.

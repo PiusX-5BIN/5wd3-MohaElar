@@ -1,7 +1,37 @@
 @media only screen and (min-width: 320px) {
+    nav{
+        text-align: center;
+        margin-top: -50px;
+        margin-bottom: 50px;
+    }
+    .navegatiebalk{
+        margin: 3px;
+    }
+    .introductie{
+        margin: 10px;
+        text-align: justify;  
+    }
     img {
         height: auto;
         max-width: 100%;
+    }
+    .afbeeldingblogpost{
+        width: 100%;
+        float: left;
+    }
+    .titelblogpost{
+        font-size: 20px;
+        margin: 10px;
+    }
+    .datumblogpost{
+        margin: 10px;
+        font-size: 15px;
+    }
+    .tekstblogpost{
+        font-size: 10pt;
+        margin: 10px;
+        margin-bottom: 50px;
+        text-align: justify;
     }
     h1{
         text-align: center;
@@ -12,41 +42,83 @@
         margin: 0px;
     }
     
-    nav{
+    .afbeeldingproject{
+        width: 110px;
+        margin: 5px;
+        
+    }
+    .divi{ 
+        width: 400px;
+        margin: 20px;
+    }
+    .blogpostdiv, table{
+        width: 80%;
+        margin: 40px;
+    }
+    td{
         text-align: center;
-        margin-top: -50px;
+    }
+    header{
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+
+    .me{
+        width: 200px;
+        float: right;
+        margin: 5px;
+    }
+    .tekstblogpost{
+        text-align: justify;
+        margin: 5px;
+    }
+
+
+    .comicafbeeldingen{
+        width: 100px;   
+    }
+    .websiteafbeeldingen{
+        width: 200px;
+    }
+    .video{
+        width: 400px;
+        display: flex;
+        margin: auto;
         margin-bottom: 50px;
     }
-    
-    #introductie{
-        width: 60%;
-        text-align: justify;
-    }
-
-}
-
-@media only screen and (min-width: 720px) {
-    img {
-        height: auto;
-        max-width: 100%;
-    }
-
 }
 
 @media only screen and (min-width:1024px) {
-    img {
-        height: auto;
-        max-width: 100%;
+    .blogpostdiv{
+        float: left;
+        width: 500px;
+        margin: 50px;
     }
-
+    .introductie{
+        font-size: 40px;
+        text-align: center;
+    }
+    .table{
+        width: 90%;
+        
+    }
+    .afbeeldingproject{
+        width: 300px;
+    }
+    td{
+        font-size: 30px;
+    }
+    .blogpost{
+        font-size: 100px;
+    }
 }
 
 
 
-img {
-    height: auto;
-    max-width: 100%;
-}
+
 
 .header{
     

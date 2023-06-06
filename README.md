@@ -61,9 +61,9 @@ De website bestaat uit minstens 3 delen:
 <summary>Opdracht 3: Ruimte en Layout</summary>
 
 > - [x] Maak het bestand `composition.css` aan. Gebruik dit in *elke* HTML pagina.
-> - [ ] Werk de Ruimte van elke pagina uit. Werk daarbij **Mobile First**.
-> - [ ] Werk de Layout van elke pagina uit. Werk daarbij **Mobile First** en gebruik Media Queries waar nodig.
-> - [ ] Bepaal de hoofdkleuren van je website en definieer ze in het `:root` element met behulp van CSS Custom Properties.
+> - [x] Werk de Ruimte van elke pagina uit. Werk daarbij **Mobile First**.
+> - [x] Werk de Layout van elke pagina uit. Werk daarbij **Mobile First** en gebruik Media Queries waar nodig.
+> - [x] Bepaal de hoofdkleuren van je website en definieer ze in het `:root` element met behulp van CSS Custom Properties.
 
 </details>
 
@@ -72,9 +72,9 @@ De website bestaat uit minstens 3 delen:
 <details>
 <summary>Opdracht 4: Utilities</summary>
 
-> - [ ] Maak het bestand `utilities.css` aan. Gebruik dit in *elke* HTML pagina.
-> - [ ] Maak utility-klassen aan op basis van je hoofdkleuren, zowel voor tekstkleur als voor achtergrondkleur.
-> - [ ] Gebruik de utility-klassen in je HTML.
+> - [x] Maak het bestand `utilities.css` aan. Gebruik dit in *elke* HTML pagina.
+> - [x] Maak utility-klassen aan op basis van je hoofdkleuren, zowel voor tekstkleur als voor achtergrondkleur.
+> - [x] Gebruik de utility-klassen in je HTML.
 
 </details>
 
@@ -83,8 +83,8 @@ De website bestaat uit minstens 3 delen:
 <details>
 <summary>Opdracht 5: Afwerking</summary>
 
-> - [ ] Maak de bestanden `blocks.css` en `exceptions.css` aan. Gebruik dit in *elke* HTML pagina.
-> - [ ] Werk de website verder af in deze css bestanden. Probeer je ontwerp zo nauwkeurig mogelijk te benaderen.
+> - [x] Maak de bestanden `blocks.css` en `exceptions.css` aan. Gebruik dit in *elke* HTML pagina.
+> - [x] Werk de website verder af in deze css bestanden. Probeer je ontwerp zo nauwkeurig mogelijk te benaderen.
 
 </details>
 
@@ -93,7 +93,7 @@ De website bestaat uit minstens 3 delen:
 <details>
 <summary>Opdracht 6: Website publiceren</summary>
 
-> - [ ] Zorg ervoor dat je website via een URL te bezoeken is.
+> - [x.] Zorg ervoor dat je website via een URL te bezoeken is.
 >   - Ga naar je projectpagina op [github.com](www.github.com)
 >   - Ga naar het tabblad `settings`
 >   - Ga naar het onderdeel `pages`

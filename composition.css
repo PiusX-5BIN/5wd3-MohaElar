@@ -51,7 +51,7 @@
         width: 400px;
         margin: 20px;
     }
-    .blogpostdiv, table{
+    .blogpostdiv, table, .blogpostdiv2{
         width: 80%;
         margin: 40px;
     }
@@ -71,7 +71,7 @@
         float: right;
         margin: 5px;
     }
-    .tekstblogpost, .tekstproject1, .tekstproject2, .tekstproject3{
+    .tekstblogpost,.tekstblogpost2, .tekstproject1, .tekstproject2, .tekstproject3{
         text-align: justify;
         margin: 5px;
     }

@@ -63,7 +63,7 @@
         margin: 0px;
         padding: 0px;
     }
-
+    
 
 
     .me{
@@ -71,7 +71,7 @@
         float: right;
         margin: 5px;
     }
-    .tekstblogpost{
+    .tekstblogpost, .tekstproject1, .tekstproject2, .tekstproject3{
         text-align: justify;
         margin: 5px;
     }
@@ -94,8 +94,15 @@
 @media only screen and (min-width:1024px) {
     .blogpostdiv{
         float: left;
-        width: 500px;
+        width: 750px;
         margin: 50px;
+        margin-top: 100px;
+    }
+    .blogpostdiv2{
+        float: left;
+        width: 950px;
+        margin: 50px;
+        margin-top: 100px;
     }
     .introductie{
         font-size: 40px;
@@ -114,6 +121,60 @@
     .blogpost{
         font-size: 100px;
     }
+    .tekstblogpost{
+        font-size: 30px;
+    }
+    .tekstblogpost1{
+        font-size: 35px;
+        margin: 50px;
+        margin-left: 320px;
+        margin-right: 830px;
+        text-align: justify;
+        
+        
+    }
+    .me{
+        width: 600px;
+        margin: 20px;
+        margin-top: 0px;
+    }
+    .tekstblogpost2, .tekstproject1, .tekstproject2{
+        font-size: 25px;
+        margin: 50px;
+        text-align: justify;
+
+    }
+    .comicafbeeldingen{
+        width: 500px;
+        
+    }
+    .fotoproject2{
+        width: 100%;
+    }
+    .video{
+        width: 900px;
+    }
+    .tekstproject3{
+        font-size: 25px;
+        margin: 30px;
+        margin-left: 50px;
+        margin-right: 50px;
+        text-align: justify;
+    }
+    .titelblogpost{
+        font-size: 34px;
+    }
+    .datumblogpost{
+        font-size: 25px;
+    }
+    .knop{
+
+        margin: 20px;
+        font-size: 40px;
+    }
+
+
+
 }
 
 

@@ -93,7 +93,7 @@ De website bestaat uit minstens 3 delen:
 <details>
 <summary>Opdracht 6: Website publiceren</summary>
 
-> - [x.] Zorg ervoor dat je website via een URL te bezoeken is.
+> - [x] Zorg ervoor dat je website via een URL te bezoeken is.
 >   - Ga naar je projectpagina op [github.com](www.github.com)
 >   - Ga naar het tabblad `settings`
 >   - Ga naar het onderdeel `pages`

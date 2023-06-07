@@ -109,59 +109,59 @@ De website bestaat uit minstens 3 delen:
 
 | Term                      | Definitie |
 | ------------------------- | --------- |
-| HTML                      |           |
-| CSS                       |           |
-| commentaar                |           |
-| server                    |           |
-| browser                   |           |
-| viewport                  |           |
-| client                    |           |
-| *.html                    |           |
-| index.html                |           |
-| tag                       |           |
-| tagnaam                   |           |
-| openingstag               |           |
-| sluitingstag              |           |
-| element                   |           |
-| zelfsluitend element      |           |
-| nesten                    |           |
-| inhoud                    |           |
-| indentatie                |           |
-| attribute                 |           |
-| attribute-key             |           |
-| attribute-value           |           |
-| block-level               |           |
-| inline                    |           |
-| structuur                 |           |
-| semantiek                 |           |
-| id attribute              |           |
-| class attribute           |           |
-| CSS                       |           |
-| selector                  |           |
-| declaratie                |           |
-| opmaak                    |           |
-| property                  |           |
-| property-value (waarde)   |           |
-| stylesheet                |           |
-| externe stylesheet        |           |
-| *.css                     |           |
-| selector                  |           |
-| conflicterende stijlregel |           |
-| hover                     |           |
-| hexadecimale kleurwaarde  |           |
-| rgb kleurwaarde           |           |
-| font                      |           |
-| generic family            |           |
-| font family               |           |
-| serif                     |           |
-| sans-serif                |           |
-| monospace                 |           |
-| box model                 |           |
-| padding                   |           |
-| border                    |           |
-| margin                    |           |
-| width                     |           |
-| height                    |           |
+| HTML                      |   HyperText Markup Language. Een opmaaktaal voor het structureren van de inhoud van webpagina's.        |
+| CSS                       |     Cascading Style Sheets. Een opmaaktaal voor het definiëren van de presentatie van een webpagina.      |
+| commentaar                |     Niet-uitvoerbare tekst in de code die bedoeld is voor menselijke lezers en wordt genegeerd door de browser.      |
+| server                    | Een computer of systeem dat bestanden en gegevens levert aan andere computers, zoals webpagina's.          |
+| browser                   |    Een softwaretoepassing waarmee gebruikers webpagina's kunnen bekijken en ermee kunnen interageren.       |
+| viewport                  |    Het zichtbare gedeelte van een webpagina binnen de browser.       |
+| client                    |    Een computer of apparaat dat verbinding maakt met een server en toegang krijgt tot de aangeboden inhoud.       |
+| *.html                    |  Bestandsextensie die wordt gebruikt voor HTML-bestanden.         |
+| index.html                |   De standaardnaam voor de startpagina van een website.        |
+| tag                       |    Een element in HTML dat wordt gebruikt om de structuur en inhoud van een webpagina aan te geven.       |
+| tagnaam                   |    De naam van een HTML-tag die het type element aangeeft.       |
+| openingstag               |     Het begin van een HTML-tag, gemarkeerd met <.      |
+| sluitingstag              |   Het einde van een HTML-tag, gemarkeerd met >.        |
+| element                   |     Een HTML-component dat bestaat uit een openingstag, inhoud en een sluitingstag.      |
+| zelfsluitend element      |   Een HTML-element dat geen sluitingstag vereist, zoals <br> of <img>.        |
+| nesten                    |    Het plaatsen van een element binnen een ander element.       |
+| inhoud                    |   De informatie of tekst die wordt weergegeven tussen de openingstag en de sluitingstag van een element.        |
+| indentatie                |   Het inspringen van code om de leesbaarheid te verbeteren, meestal door spaties of tabs te gebruiken.        |
+| attribute                 |  Extra kenmerken die aan HTML-tags kunnen worden toegevoegd om aanvullende informatie te bieden.        |
+| attribute-key             |    De naam van een attribuut dat aan een HTML-tag wordt toegevoegd.       |
+| attribute-value           |     De waarde die aan een attribuut wordt toegekend en informatie over het attribuut geeft.      |
+| block-level               |     Een type HTML-element dat een volledige breedte inneemt en op een nieuwe regel begint.      |
+| inline                    |  Een type HTML-element dat naast andere elementen kan bestaan zonder een nieuwe regel te starten.         |
+| structuur                 |     De organisatie en hiërarchie van HTML-elementen binnen een webpagina.      |
+| semantiek                 |    Het gebruik van HTML-tags op een manier die hun betekenis en functie nauwkeurig weergeeft.       |
+| id attribute              |  Een attribuut dat wordt gebruikt om een unieke identificatie aan een HTML-element toe te kennen.         |
+| class attribute           |  Een attribuut dat wordt gebruikt om een of meerdere elementen te groeperen en te identificeren in CSS.         |
+| CSS                       |      Cascading Style Sheets. Een opmaaktaal voor het definiëren van de presentatie van een webpagina.     |
+| selector                  |   Een patroon dat wordt gebruikt om specifieke HTML-elementen te selecteren en stijlen toe te passen.        |
+| declaratie                |   Een regel in CSS die een stijlregel definieert en bestaat uit een eigenschap en een waarde.        |
+| opmaak                    |    De visuele presentatie en stijl van een webpagina, gedefinieerd met behulp van CSS.       |
+| property                  |   Een kenmerk of eigenschap in CSS dat de stijl en het gedrag van een element bepaalt.        |
+| property-value (waarde)   |    De specifieke waarde die aan een eigenschap wordt toegekend om de stijl van een element te definiëren.       |
+| stylesheet                |    Een bestand dat CSS-regels bevat om de opmaak van een webpagina te definiëren.       |
+| externe stylesheet        |  Een CSS-bestand dat extern wordt geladen en wordt gekoppeld aan een HTML-document.         |
+| *.css                     |   Bestandsextensie die wordt gebruikt voor CSS-bestanden.        |
+| selector                  |     Een patroon dat wordt gebruikt om specifieke HTML-elementen te selecteren en stijlen toe te passen.      |
+| conflicterende stijlregel |    Een situatie waarin meerdere CSS-stijlregels tegelijkertijd worden toegepast op een element, wat kan leiden tot conflicten in de opmaak.       |
+| hover                     |   Een CSS-pseudoklasse die wordt gebruikt om stijlen toe te passen wanneer een element wordt aangeraakt of erover wordt gehoverd.        |
+| hexadecimale kleurwaarde  |   Een manier om kleuren weer te geven met behulp van een combinatie van zes cijfers en letters (0-9, A-F).        |
+| rgb kleurwaarde           |   Een manier om kleuren weer te geven met behulp van de drie primaire kleuren (rood, groen en blauw).        |
+| font                      |      Het lettertype dat wordt gebruikt om tekst weer te geven op een webpagina.     |
+| generic family            |  Een algemeen categorie van lettertypen, zoals "serif", "sans-serif" en "monospace".         |
+| font family               |    Een specifiek lettertype of een reeks lettertypen die worden gebruikt om tekst weer te geven.       |
+| serif                     | Een lettertypefamilie die wordt gekenmerkt door kleine lijntjes (schreven) aan de uiteinden van de letters.          |
+| sans-serif                |   Een lettertypefamilie zonder schreven (kleine lijntjes aan de uiteinden van de letters).        |
+| monospace                 |   Een lettertypefamilie waarin elke letter evenveel horizontale ruimte inneemt.        |
+| box model                 |  Een model in CSS dat de opbouw van elementen op een webpagina beschrijft, inclusief marges, padding en borders.         |
+| padding                   |  De ruimte tussen de inhoud van een element en de rand ervan.         |
+| border                    |   Een eigenschap in CSS die wordt gebruikt om een lijn rondom een element te creëren, zoals een rand of een scheidslijn.        |
+| margin                    |   De ruimte aan de buitenkant van een element, die dient als een lege ruimte tussen het element en andere elementen.        |
+| width                     |   Een eigenschap in CSS die de breedte van een element bepaalt.        |
+| height                    |    Een eigenschap in CSS die de hoogte van een element bepaalt.       |
 
 ## 📚 Bronnen
 
@@ -174,24 +174,24 @@ De website bestaat uit minstens 3 delen:
 
 *Dit zijn de minimale eisen van het project. Voldoe je hier niet aan, krijg je een E.*
 
- - [ ] De **theorie** werd volledig ingevuld
- - [ ] Je hebt een **werkende URL** voor jouw website op Smartschool geplaatst
- - [ ] Je hebt een **markdown** bestand voor ELKE pagina waarin de inhoud reeds werd verzameld
- - [ ] **Blog**:
-   - [ ] Eén overzichtspagina (mag op je startpagina zijn)
-   - [ ] Minstens 2 blogposts
-   - [ ] Elke blogpost krijgt een eigen pagina
- - [ ] **Projecten**:
-   - [ ] Eén overzichtspagina (mag op je startpagina zijn)
-   - [ ] Eén onderdeel voor elk informatica-project:
+ - [x] De **theorie** werd volledig ingevuld
+ - [x] Je hebt een **werkende URL** voor jouw website op Smartschool geplaatst
+ - [x] Je hebt een **markdown** bestand voor ELKE pagina waarin de inhoud reeds werd verzameld
+ - [x] **Blog**:
+   - [x] Eén overzichtspagina (mag op je startpagina zijn)
+   - [x] Minstens 2 blogposts
+   - [x] Elke blogpost krijgt een eigen pagina
+ - [x] **Projecten**:
+   - [x] Eén overzichtspagina (mag op je startpagina zijn)
+   - [x] Eén onderdeel voor elk informatica-project:
      - Digital comicbook
      - Javascript game
      - Superhero website
-   - [ ] Elk project krijgt een eigen pagina
- - [ ] **About**:
-   - [ ] Eén pagina waarin je vertelt over jezelf (mag op je startpagina zijn)
- - [ ] Géén **plagiaat**!
- - [ ] CSS-code werd opgedeeld volgens de **CUBE methode**
+   - [x] Elk project krijgt een eigen pagina
+ - [x] **About**:
+   - [x] Eén pagina waarin je vertelt over jezelf (mag op je startpagina zijn)
+ - [x] Géén **plagiaat**!
+ - [x] CSS-code werd opgedeeld volgens de **CUBE methode**
 
 ## 🏆 Evaluatie
 
